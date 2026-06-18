@@ -42,7 +42,6 @@
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/Bloi-Dev
 * LinkedIn: [in/brandon-loi](https://www.linkedin.com/in/brandon-loi)
 
 ---
