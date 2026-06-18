@@ -1,17 +1,50 @@
-**## Hi there 👋
+# Hi there 👋 I'm Bloi-Dev
 
-<!--
-**Bloi-Dev/Bloi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 💻 Software Engineering student and developer
+* 🐍 Working with Python, Discord bots, and Web development
+* 🤖 Building automation tools and AI-powered applications
+* 🌱 Currently learning advanced software engineering concepts
+* 🎯 Interested in backend systems, DevOps, and machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**
+## 🔨 Current Projects
+
+* **Project Zeta** — Discord bot + WebUI for managing student channels and generating summaries
+* Personal automation tools and experiments
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* Java
+* JavaScript
+* SQL
+* C++
+
+### Frameworks & Tools
+
+* Discord.py
+* Flask / FastAPI
+* Git & GitHub
+* Docker
+* Linux
+* PostgreSQL
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloi-Dev\&show_icons=true)
+
+## ♟️ Chess.com
+
+[![Chess.com Player Card](./assets/chess-card.svg)](https://www.chess.com/member/bloi_chess)
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/Bloi-Dev
+* LinkedIn: Add your LinkedIn profile here
+
+---
+
+*"Always building, always learning."*
