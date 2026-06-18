@@ -43,7 +43,7 @@
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/Bloi-Dev
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: [in/brandon-loi](https://www.linkedin.com/in/brandon-loi)
 
 ---
 
