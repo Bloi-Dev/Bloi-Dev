@@ -6,7 +6,7 @@
 * 🐍 Working with Python, Discord bots, and Web development
 * 🤖 Building automation tools and AI-powered applications
 * 🌱 Currently learning advanced software engineering concepts
-* 🎯 Interested in backend systems, DevOps, and machine learning
+* 🎯 Interested in backend systems, ML and Game Development
 
 ## 🔨 Current Projects
 
