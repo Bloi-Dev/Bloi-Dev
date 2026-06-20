@@ -1,3 +1,5 @@
+[![Update Chess Card](https://github.com/Bloi-Dev/Bloi-Dev/actions/workflows/update-chess-card.yml/badge.svg)](https://github.com/Bloi-Dev/Bloi-Dev/actions/workflows/update-chess-card.yml)
+
 # Hi there 👋 I'm Bloi-Dev
 
 ## 🚀 About Me
