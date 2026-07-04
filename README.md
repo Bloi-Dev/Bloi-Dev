@@ -40,7 +40,7 @@
 
 ## ♟️ Chess.com
 
-[![Chess.com Player Card](./assets/chess-card.svg)](https://www.chess.com/member/bloi_chess)
+[![Chess.com Player Card](./assets/chess-card.svg)](https://www.chess.com/member/BLoiChessMobile)
 
 ## 🌐 Connect With Me
 
