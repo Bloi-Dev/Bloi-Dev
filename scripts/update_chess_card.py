@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 import urllib.request
 
-USERNAME = "bloi_chess"
+USERNAME = "BLoiChessMobile"
 API_URL = f"https://api.chess.com/pub/player/{USERNAME}/stats"
 
 output_path = Path("assets/chess-card.svg")
